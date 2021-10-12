@@ -1,0 +1,28 @@
+header
+{
+   background: url("images/logo.png");
+   background-repeat: no-repeat;
+   width: 100%;
+   min-height: 500px;
+   
+}
+#Menu li 
+{
+    font-style: bold;
+    display:inline;
+    color: #51279B,#8662C7;
+    padding: 35px;    
+}
+
+body
+{
+background-color: coral;
+background: url("images/1-large.jpg");
+background-repeat: no-repeat;
+
+
+
+
+}
+
+

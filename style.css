@@ -1,0 +1,58 @@
+
+header
+{
+   background: url("images/logo.png");
+   background-repeat: no-repeat;
+   width: 100%;
+   min-height: 500px;
+   
+}
+#Menu li 
+{
+    display:inline;
+    color: #51279B,#8662C7;
+    padding: 35px;    
+}
+
+
+body
+{
+    background: url("images/florence.jpg");
+    background-size: stretch;
+    background-repeat: no-repeat;
+
+
+}
+
+
+
+
+
+#First-Line
+{
+    font-style: bold;
+    font-size: 48px;
+    color: white; 
+}
+
+#Second-Line
+{
+    font-size: 24px;
+    color:white;
+}
+
+#Pictures li 
+{
+    display :inline-block;
+    background-size: cover;
+    
+    
+    
+    padding: 5px;
+    
+    
+    
+    
+    
+}
+
